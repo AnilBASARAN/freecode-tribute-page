@@ -1,0 +1,53 @@
+header {
+    background-color: #eee;
+    height: 200px;
+    text-align: center;
+    font-size: larger;
+}
+
+#title {
+    padding: 50px 0 0 20px;
+}
+
+#image {
+    padding:0 20% ;
+}
+
+#img-caption {
+    text-align: center;  
+}
+
+#tribute-info {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    
+}
+/* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  */
+li {
+    padding: 16px;
+    text-align: start;
+    font-size: 15px;
+    
+}
+/* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  */
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    list-style: none;
+}
+/* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  *//* BURAYA DİKKAT ET  */
+.tribute-link1 {
+    padding: 16px;
+    text-align: center;
+    font-size: 15px;
+}
+
+#last-bit {
+    background-color:#eee;
+}
+img {
+   width: 60%;
+}
